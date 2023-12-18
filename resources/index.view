@@ -83,7 +83,9 @@ desync. This clockface doesn't *appear* to overuse the battery. -->
   <arc id="distZ" x="77" y="73%" opacity="1.0" width="80" height="80" fill="darkcyan"
     arc-width="5" start-angle="0" sweep-angle="0" />
   
+  <!-- Floors section removed, intended to be replaced with EDA sensor stress meter when that call is made public knowledge -->
   <!-- Floors -->
+  <!--
   <circle id="floorsC" cx="167" cy="210" r="39" fill="white" opacity="0.1" pointer-events="visible"/>
   <g id="moF">
     <image id="floorsIcon" x="146" y="190" width="42" height="42" href="img/floors_icon_w.png" pointer-events="visible">
@@ -96,6 +98,8 @@ desync. This clockface doesn't *appear* to overuse the battery. -->
     arc-width="5" start-angle="0" sweep-angle="0" />
   <arc id="floorsZ" x="127" y="51%" opacity="1.0" width="80" height="80" fill="royalblue"
     arc-width="5" start-angle="0" sweep-angle="0" />
+  -->
+  
   
   <!-- Active Minutes -->
   <circle id="actMinsC" cx="217" cy="283" r="39" fill="white" opacity="0.1" pointer-events="visible"/>
